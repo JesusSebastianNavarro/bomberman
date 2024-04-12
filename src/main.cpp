@@ -2,6 +2,6 @@
 
 int main(int argc, char const *argv[])
 {
-    std::out << "Bomberman" << std::endl;
+    std::cout << "Bomberman" << std::endl;
     return 0;
 }

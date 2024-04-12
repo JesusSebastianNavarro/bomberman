@@ -16,7 +16,6 @@ class Puerta
 class Roca
 class ObjetoDestruible
 class ObjetoIndestructible
-class Pared
 
 Laberinto "1" *-- "*" Sala 
 Sala "1" *-- "1" Puerta
