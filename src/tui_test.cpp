@@ -61,7 +61,7 @@ int main(int argc, char const *argv[])
         reset = pantalla.ResetPosition();
         cout << reset;
 
-        this_thread::sleep_for(0.1s);
+        this_thread::sleep_for(0.05s);
     }
 
     return 0;
